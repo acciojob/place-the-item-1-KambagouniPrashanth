@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
-.holder{
+holder{
     display: flex;
     flex-wrap:wrap;
-    justify-content:space-evenly;
+    justify-content:space-between;
 }
 .item-1{
     width: 80px;
